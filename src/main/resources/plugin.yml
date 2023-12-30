@@ -1,0 +1,4 @@
+name: worlds-foreach-protector
+version: '${version}'
+main: net.lamgc.wfp.MainClass
+author: LamGC
